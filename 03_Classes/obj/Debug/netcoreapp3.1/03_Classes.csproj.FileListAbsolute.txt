@@ -1,0 +1,4 @@
+C:\Users\JaH\source\repos\01-TypesAndVariables\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.csprojAssemblyReference.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.AssemblyInfoInputs.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.AssemblyInfo.cs
+C:\Users\JaH\source\repos\01-TypesAndVariables\03_Classes\obj\Debug\netcoreapp3.1\03_Classes.csproj.CoreCompileInputs.cache
