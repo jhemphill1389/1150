@@ -1,0 +1,9 @@
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\bin\Debug\netstandard2.0\07_RepositoryPattern_Repository.deps.json
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\bin\Debug\netstandard2.0\07_RepositoryPattern_Repository.dll
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\bin\Debug\netstandard2.0\07_RepositoryPattern_Repository.pdb
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\obj\Debug\netstandard2.0\07_RepositoryPattern_Repository.csprojAssemblyReference.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\obj\Debug\netstandard2.0\07_RepositoryPattern_Repository.AssemblyInfoInputs.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\obj\Debug\netstandard2.0\07_RepositoryPattern_Repository.AssemblyInfo.cs
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\obj\Debug\netstandard2.0\07_RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\obj\Debug\netstandard2.0\07_RepositoryPattern_Repository.dll
+C:\Users\JaH\source\repos\01-TypesAndVariables\07_RepositoryPattern_Repository\obj\Debug\netstandard2.0\07_RepositoryPattern_Repository.pdb

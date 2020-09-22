@@ -1,0 +1,4 @@
+C:\Users\JaH\source\repos\01-TypesAndVariables\05-loops\obj\Debug\netcoreapp3.1\05-loops.csprojAssemblyReference.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\05-loops\obj\Debug\netcoreapp3.1\05-loops.AssemblyInfoInputs.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\05-loops\obj\Debug\netcoreapp3.1\05-loops.AssemblyInfo.cs
+C:\Users\JaH\source\repos\01-TypesAndVariables\05-loops\obj\Debug\netcoreapp3.1\05-loops.csproj.CoreCompileInputs.cache

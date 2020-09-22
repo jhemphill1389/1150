@@ -1,0 +1,9 @@
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\bin\Debug\netstandard2.0\_06_inheritance_Classes.deps.json
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\bin\Debug\netstandard2.0\_06_inheritance_Classes.dll
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\bin\Debug\netstandard2.0\_06_inheritance_Classes.pdb
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\obj\Debug\netstandard2.0\_06_inheritance_Classes.csprojAssemblyReference.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\obj\Debug\netstandard2.0\_06_inheritance_Classes.AssemblyInfoInputs.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\obj\Debug\netstandard2.0\_06_inheritance_Classes.AssemblyInfo.cs
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\obj\Debug\netstandard2.0\_06_inheritance_Classes.csproj.CoreCompileInputs.cache
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\obj\Debug\netstandard2.0\_06_inheritance_Classes.dll
+C:\Users\JaH\source\repos\01-TypesAndVariables\06_inheritance_Classes\obj\Debug\netstandard2.0\_06_inheritance_Classes.pdb

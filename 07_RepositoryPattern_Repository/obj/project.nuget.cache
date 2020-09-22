@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBqeu1iADeKqi2MuIWylER7D67Hgp7/q1+BAV0SxCp/5o04aJbk741eOIvmHcacqMhGAwBwtR6BGHWZP3Z2Hkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JaH\\source\\repos\\01-TypesAndVariables\\07_RepositoryPattern_Repository\\07_RepositoryPattern_Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JaH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JaH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

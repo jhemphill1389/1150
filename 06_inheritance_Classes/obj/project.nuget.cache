@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQYhcsyraNZNSw5AxLZtOU0Xrj7KL+tz4HCiBlXEQczqx1RC7Br7jkD2FfVMf8MRvab/wPkwRJrul33xZ0F8dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JaH\\source\\repos\\01-TypesAndVariables\\06_inheritance_Classes\\_06_inheritance_Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JaH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JaH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
